@@ -20,4 +20,4 @@ df = df.drop(columns='whoAmI')
 # вывод аналогичен выводу функции get_dummies():
 #      df = pd.get_dummies(df);
 
-df
+print(df)
